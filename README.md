@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lettinghenry
+- 👋 Hi, I’m Henry
 - I’m a Software developer based in Nairobi.
 
 <!---
