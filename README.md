@@ -1,6 +1,6 @@
  👋 Hello, my name is **Henry**
  
-**S**hifting    bits    and    bytes    in    and   out    of    registers    keeps    me    occupied   😾   ..
+Shifting bytes around
 
 <!---
 lettinghenry/lettinghenry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
